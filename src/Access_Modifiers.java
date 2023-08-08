@@ -19,7 +19,7 @@ class acces_modifier{
 }
 
 class c1 extends acces_modifier{
-	x=45;
+	int x=45;
 }
 
 public class Access_Modifiers {

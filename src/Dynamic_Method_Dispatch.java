@@ -18,6 +18,7 @@ class Phone{
 }
 
 class Smart_Phone extends Phone{
+	@Override
 	public void greet() {
 		System.out.println("I am a Smart Phone inherited from Phone....");
 	}
